@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(145, 212, 250);
+}
+
+header {
+  color: rgb(10, 0, 73);
+  font-style: bold;
+  font-size: 20px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h3{
+  text-align: center;
+  font-size: 30px;
+}
+
+img.left {
+  float: left;
+  display: flex;
+}
+img.right {
+  float: right;
+}
+h1 {
+  display: inline;
+}
+
+th {
+  text-align: left;
+}
+th, td {
+  padding: 15px;
+}
+
+table,td,th{
+  border: 1px solid #0d0d9c;
+}
+
+
+
+  
+
